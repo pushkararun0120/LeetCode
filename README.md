@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pushkararun0120/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pushkararun0120/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0976-largest-perimeter-triangle](https://github.com/pushkararun0120/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1470-shuffle-the-array](https://github.com/pushkararun0120/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -33,5 +34,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pushkararun0120/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pushkararun0120/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
